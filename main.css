@@ -401,7 +401,7 @@ main .promo_mosaic .promo_mosaic_container{
     height: 100%;
     grid-area: 2 / 1 / 3 / 2;
     background-color: #f04f36;
-    background-image: url("https://res.cloudinary.com/ddfzagwob/image/upload/v1673132791/empire/soup-pot-1-1_512x512_mv3wyp.jpg");
+    background-image: url("https://res.cloudinary.com/ddfzagwob/image/upload/v1673132788/empire/cooking-pot-gradient-9_1354e8fa-8faa-4e7a-b00f-f80171cb616b_1350x744_m3zi8a.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -410,7 +410,7 @@ main .promo_mosaic .promo_mosaic_container{
 .promo_mosaic_container .saleitems_mosaic {
     height: 100%;
     grid-area: 2 / 2 / 3 / 4;
-    background-image: url("https://res.cloudinary.com/ddfzagwob/image/upload/v1673132788/empire/22282_1_1200px-wide_3_1279x657_p8kwdp.jpgg");
+    background-image: url("https://res.cloudinary.com/ddfzagwob/image/upload/v1673132788/empire/22282_1_1200px-wide_3_1279x657_p8kwdp.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
