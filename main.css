@@ -382,7 +382,7 @@ main .promo_mosaic .promo_mosaic_container{
 .promo_mosaic_container .Cuisine_mosaic{
     height: 100%;
     grid-area: 1 / 1 / 2 / 3;
-    background-image: url("../Assets/png/mosaic-stocksy-image-edit-3_f09efdd1-142a-4cd2-8c04-90aaf17aa883_1350x652.jpg");
+    background-image: url("https://res.cloudinary.com/ddfzagwob/image/upload/v1673132790/empire/mosaic-stocksy-image-edit-3_f09efdd1-142a-4cd2-8c04-90aaf17aa883_1350x652_ww5rwc.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -391,7 +391,7 @@ main .promo_mosaic .promo_mosaic_container{
 .promo_mosaic_container .Oficce_mosaic {
     height: 100%;
     grid-area: 1 / 3 / 2 / 4;
-    background-image: url("../Assets/png/storm-cloud_640x640.jpg");
+    background-image: url("https://res.cloudinary.com/ddfzagwob/image/upload/v1673132792/empire/storm-cloud_640x640_yofxcn.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -401,7 +401,7 @@ main .promo_mosaic .promo_mosaic_container{
     height: 100%;
     grid-area: 2 / 1 / 3 / 2;
     background-color: #f04f36;
-    background-image: url("../Assets/png/cooking-pot-gradient-9_1354e8fa-8faa-4e7a-b00f-f80171cb616b_1350x744.jpg");
+    background-image: url("https://res.cloudinary.com/ddfzagwob/image/upload/v1673132791/empire/soup-pot-1-1_512x512_mv3wyp.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -410,7 +410,7 @@ main .promo_mosaic .promo_mosaic_container{
 .promo_mosaic_container .saleitems_mosaic {
     height: 100%;
     grid-area: 2 / 2 / 3 / 4;
-    background-image: url("../Assets/png/22282_1_1200px-wide_3_1279x657.jpg");
+    background-image: url("https://res.cloudinary.com/ddfzagwob/image/upload/v1673132788/empire/22282_1_1200px-wide_3_1279x657_p8kwdp.jpgg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -493,7 +493,7 @@ main .future_collection .future_collection_container {
     justify-content: center;
     align-items: center;
     grid-area: 1 / 1 / 3 / 4;
-    background-image: url("../Assets/png/title-card-2_1205x1077_crop_center_89450e28-0239-4b84-8e0e-930f7c916d87_500x750_crop_center.jpg");
+    background-image: url("https://res.cloudinary.com/ddfzagwob/image/upload/v1673132793/empire/title-card-2_1205x1077_crop_center_89450e28-0239-4b84-8e0e-930f7c916d87_500x750_crop_center_knup9q.jpg");
     background-position: 5% 40%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -777,7 +777,7 @@ main .product_inner {
 }
 .trending_collection_container .collection_birthdays {
     grid-area: 1 / 1 / 2 / 2;
-    background-image: url("../Assets/png/blogtest8_037a3756-0941-4b04-934e-d74343fcd2fe_1350x778.jpg");
+    background-image: url("https://res.cloudinary.com/ddfzagwob/image/upload/v1673132788/empire/blogtest8_037a3756-0941-4b04-934e-d74343fcd2fe_1350x778_s5cb4m.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -785,7 +785,7 @@ main .product_inner {
 }
 .trending_collection_container .collection_dining { 
     grid-area: 1 / 2 / 2 / 3;
-    background-image: url("../Assets/png/bristle-free-grill-brush-2-edit_954a34cc-6cde-4a38-81f2-5c03f74f89bc_941x981.jpg");
+    background-image: url("https://res.cloudinary.com/ddfzagwob/image/upload/v1673132790/empire/bristle-free-grill-brush-2-edit_954a34cc-6cde-4a38-81f2-5c03f74f89bc_941x981_aqkyqk.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -793,7 +793,7 @@ main .product_inner {
 }
 .trending_collection_container .collection_glassware {
     grid-area: 1 / 3 / 2 / 4;
-    background-image: url("../Assets/png/Hot_Toddy_Diagram_Glassware_-_Set_of_2-3_640x640.jpg");
+    background-image: url("./Assets/png/Hot_Toddy_Diagram_Glassware_-_Set_of_2-3_640x640.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -801,7 +801,7 @@ main .product_inner {
 }
 .trending_collection_container .collection_garden {
     grid-area: 1 / 4 / 2 / 5;
-    background-image: url("../Assets/png/garden-basket-1-edit_99b5e584-b170-4201-a2e9-a3b2acda7c6c_1000x1000.jpg");
+    background-image: url("https://res.cloudinary.com/ddfzagwob/image/upload/v1673132790/empire/Hot_Toddy_Diagram_Glassware_-_Set_of_2-3_640x640_p7mcpz.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
